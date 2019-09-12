@@ -1,0 +1,2 @@
+INFO    2019-09-11 10:43:44,240 [main] com.w2a.base.Page  - Config file loaded
+INFO    2019-09-11 10:43:44,241 [main] com.w2a.base.Page  - OR file loaded
