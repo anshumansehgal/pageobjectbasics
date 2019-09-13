@@ -18,7 +18,7 @@ public class LoginTest extends BaseTest {
 		HomePage home= new HomePage();
 		LoginPage lp = home.goToLogin();
 		lp.doLogin(data.get("username"),data.get("password")); //data will be picked up from excel sheet now
-		Assert.fail("Login test failed");
+		//Assert.fail("Login test failed");
 	}
 
 }
