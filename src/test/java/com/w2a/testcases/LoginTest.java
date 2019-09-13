@@ -13,6 +13,8 @@ import utilities.Utilities;
 
 public class LoginTest extends BaseTest {
 	
+	
+	//Committing the Egit Plug-in
 	@Test(dataProviderClass = Utilities.class, dataProvider = "dp")
 	public void loginTest(Hashtable<String, String> data) {
 		HomePage home= new HomePage();
